@@ -1,2 +1,3 @@
-1000+倍！超强Python『向量化』数据处理提速攻略  https://mp.weixin.qq.com/s/r0A8LmdwCJco_36kb4Y6cA
-一个函数搞定并行，为Pandas提速！为我Kaggle摘银 https://mp.weixin.qq.com/s/v7HzksZhtPeO8UKn2yc3HA
+1000+倍！超强Python『向量化』数据处理提速攻略(向量化)  https://mp.weixin.qq.com/s/r0A8LmdwCJco_36kb4Y6cA
+一个函数搞定并行，为Pandas提速！为我Kaggle摘银(多进程) https://mp.weixin.qq.com/s/v7HzksZhtPeO8UKn2yc3HA
+如何用一行代码在多CPU环境下高效并行Pandas(pandarallel 包) https://mp.weixin.qq.com/s/2-Ayzmzo8tydDLoKpz1Ezw
