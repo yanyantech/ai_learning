@@ -1,1 +1,2 @@
 1000+倍！超强Python『向量化』数据处理提速攻略  https://mp.weixin.qq.com/s/r0A8LmdwCJco_36kb4Y6cA
+一个函数搞定并行，为Pandas提速！为我Kaggle摘银 https://mp.weixin.qq.com/s/v7HzksZhtPeO8UKn2yc3HA
