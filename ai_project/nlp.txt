@@ -1,1 +1,2 @@
 nlp-tutorial  https://github.com/graykode/nlp-tutorial
+GPT2-Chinese  https://github.com/Morizeyao/GPT2-Chinese
