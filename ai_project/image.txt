@@ -1,0 +1,3 @@
+人脸检测 https://github.com/dlunion/DBFace 
+人像卡通化 (Photo to Cartoon)  https://github.com/minivision-ai/photo2cartoon
+
